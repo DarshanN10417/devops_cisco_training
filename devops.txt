@@ -1,0 +1,27 @@
+1. Jira, Azure Dashboards
+
+Jira: Manages user stories, bugs, tasks, and sprints.
+Azure: Tracks work items, project progress, and team metrics.
+
+2. Code — Git, GitHub
+
+Git: A version control system that records changes in source code.
+GitHub: Hosts Git repositories and supports collaboration through branches, pull requests, and code reviews.
+
+3. Build — Maven
+Maven: Uses a pom.xml file to configure Java builds and dependencies. 
+
+4. Test — JUnit, Selenium
+JUnit: Tests Java code, especially individual methods and components. Selenium: Automates web browsers to test user interactions, such as login and form submission. 
+
+5. Release — Jenkins, GitHub Actions
+Jenkins: An automation server that runs pipelines for building, testing, and releasing software. GitHub Actions: Runs automated workflows triggered by events such as code pushes and pull requests.  
+
+6. Deploy — Docker, Kubernetes
+Docker: Packages an application and its dependencies into a container. Kubernetes: Manages containerized applications, including scaling, service discovery, and recovery from certain failures.  
+
+7. Operate — Ansible
+Ansible: Automates server configuration, software installation, routine administration, and infrastructure tasks using playbooks.
+
+8. Monitor — Grafana
+Grafana: Visualizes metrics and logs from supported data sources and can provide alerts. 
